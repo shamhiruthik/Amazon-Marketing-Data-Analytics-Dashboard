@@ -10,3 +10,7 @@
 
 `product_description` - once you get the product id you can further map the product id to understand what the product is.
 
+## Process Undergone
+
+`Data Preparation` --> `Dashboard Creation`  --> `Analysis`
+
