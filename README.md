@@ -14,3 +14,10 @@
 
 `Data Preparation` --> `Dashboard Creation`  --> `Analysis`
 
+## Insights
+
+`Highest Sales By Campaign ID` --> Campaign ID - 227126308369
+`Highest Sales By Placement` --> Top of search on Amazon
+`Highest Sales By Category`  --> Mattress
+`Highest Sales By Size` --> Twin
+
